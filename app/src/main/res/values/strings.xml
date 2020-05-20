@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="show_hide_fragment">Show/Hide Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_last_name">enter last name</string>
+    <string name="show_details">Show Details</string>
+</resources>
